@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "campo1": "Manual para dias Rojos",
+    "campo2": "Romàntica",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Manual%20para%20dias%20rojos.jpg?raw=true",
+    "alt": "Manual para dias Rojos",
+    "url": "http://www.google.com"
+},
+{
+    "id": 7,
+    "campo1": "Nosotros en la luna",
+    "campo2": "Romàntica",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Nosotros%20en%20la%20luna.jpg?raw=true",
+    "alt": "Te espero en el fin del mundo",
+    "url": "http://www.google.com"
+},
+{
+    "id": 3,
+    "campo1": "Aquella noche de verano",
+    "campo2": "Poesia romàntica",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Aquella%20noche%20de%20verano.jpg?raw=true",
+    "alt": "Aquella noche de verano",
+    "url": "http://www.google.com"
+},
+{
+    "id": 4,
+    "campo1": "Somos más que pieles",
+    "campo2": "Reivindicatiu",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Somos%20mas%20que%20pieles.jpg?raw=true",
+    "alt": "Somos más que pieles",
+    "url": "http://www.google.com"
+},
+{
+    "id": 5,
+    "campo1": "Tierra",
+    "campo2": "Novel·la contemporània",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Tierra.jpg?raw=true",
+    "alt": "Tierra",
+    "url": "http://www.google.com"
+},
+{
+    "id": 6,
+    "campo1": "El chico de la última fila",
+    "campo2": "Romàntica",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/El%20chico%20de%20la%20ultima%20fila.jpg?raw=true",
+    "alt": "El chico de la última fila",
+    "url": "http://www.google.com"
+},
+{
+    "id": 2,
+    "campo1": "Un cuento perfecto",
+    "campo2": "Romàntica i ficció",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Un%20cuento%20perfecto.jpg?raw=true",
+    "alt": "Un cuento perfecto",
+    "url": "http://www.google.com"
+},
+{
+    "id": 9,
+    "campo1": "Arrivederci amor",
+    "campo2": "Literatura juvenil",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Arrivederci%20amor.jpg?raw=true",
+    "alt": "Arrivederci amor",
+    "url": "http://www.google.com"
+},
+{
+    "id": 8,
+    "campo1": "Almendra",
+    "campo2":  "Novel·la d'aprenentatge i ficció",
+    "srcimg": "https://github.com/Aryadna12/prac2.github.io/blob/main/Almendra.jpg?raw=true",
+    "alt": "Almendra",
+    "url": "http://www.google.com"
+}
+]
